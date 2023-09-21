@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "400995800913",
+    "firebase_url": "https://develooper-531b3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "develooper-531b3",
+    "storage_bucket": "develooper-531b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400995800913:android:ede098f47bfcbc80706570",
+        "android_client_info": {
+          "package_name": "hr.ivagavran.develooper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAccW-xCBSanT-ms4A-JaeV_NjhxnXCXg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
